@@ -32,10 +32,3 @@ An engineering student and developer passionate about creating next-gen technolo
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3" />
 </div>
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emirsw&show_icons=true&theme=dark&locale=tr" alt="Emir's GitHub Stats" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirsw&show_icons=true&theme=dark&locale=en&layout=compact" alt="Emir's Top Languages" width="48%" />
-</p>
